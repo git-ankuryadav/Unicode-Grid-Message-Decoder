@@ -44,4 +44,4 @@ def print_sec_msg(url):
 
 
 #runs the final function
-print_sec_msg("https://docs.google.com/document/d/e/2PACX-1vSvM5gDlNvt7npYHhp_XfsJvuntUhq184By5xO_pA4b_gCWeXb6dM6ZxwN8rE6S4ghUsCj2VKR21oEP/pub")
+print_sec_msg("YOUR URL HERE")
